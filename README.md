@@ -5,6 +5,13 @@ The system processes patient data from a CSV file and appends a validation statu
 
 ---
 
+## 🌐 Live Demo
+
+Try the application here:  
+👉 **https://medication-isright.streamlit.app/**
+
+---
+
 ## 📌 Project Overview
 
 In healthcare data management, verifying whether a medication aligns with a diagnosed disease is critical.  
