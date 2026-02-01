@@ -1,0 +1,11 @@
+Patient_ID,Name,Age,Gender,Disease,Medication,Dosage,Doctor_Name,Hospital,Visit_Date
+P001,Arun Kumar,35,Male,Diabetes,Metformin,500mg,Dr. Sharma,Apollo Hospital,2025-01-10
+P002,Meena R,28,Female,Malaria,Paracetamol,650mg,Dr. Joseph,City Care,2025-01-11
+P003,Ravi Shankar,50,Male,Hypertension,Amlodipine,5mg,Dr. Gupta,Fortis,2025-01-12
+P004,Sita Devi,40,Female,Diabetes,Insulin,10 units,Dr. Sharma,Apollo Hospital,2025-01-13
+P005,Karthik S,22,Male,Fever,Ibuprofen,400mg,Dr. Priya,Global Health,2025-01-14
+P006,Anitha M,31,Female,Malaria,Chloroquine,250mg,Dr. Joseph,City Care,2025-01-15
+P007,Vijay Kumar,60,Male,Hypertension,Losartan,50mg,Dr. Gupta,Fortis,2025-01-16
+P008,Pooja N,27,Female,Fever,Paracetamol,650mg,Dr. Priya,Global Health,2025-01-17
+P009,Ramesh T,45,Male,Diabetes,Glibenclamide,5mg,Dr. Sharma,Apollo Hospital,2025-01-18
+P010,Lakshmi S,38,Female,Malaria,Artemisinin,200mg,Dr. Joseph,City Care,2025-01-19
